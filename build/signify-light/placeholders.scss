@@ -1,0 +1,446 @@
+%photon-core-h-1 {
+  font-family: "Signify Raisonne", sans-serif;
+  font-size: 80px;
+  line-height: 96px;
+  letter-spacing: -0.01em;
+}
+
+%photon-core-h-2 {
+  font-family: "Signify Raisonne", sans-serif;
+  font-size: 56px;
+  line-height: 68px;
+  letter-spacing: -0.005em;
+}
+
+%photon-core-h-3 {
+  font-family: "Signify Raisonne", sans-serif;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0.0025em;
+}
+
+%photon-core-h-4 {
+  font-family: "Signify Raisonne", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.005em;
+}
+
+%photon-core-h-5 {
+  font-family: "Signify Raisonne", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.005em;
+}
+
+%photon-core-plain-text-bold-30 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-bold-24 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-bold-18 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-bold-16 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-bold-14 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-bold-12 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-regular-30 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-regular-24 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-regular-18 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-regular-16 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-regular-14 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+}
+
+%photon-core-plain-text-regular-12 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-bold-30 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-bold-24 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-bold-18 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-bold-16 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-bold-14 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-bold-12 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-regular-30 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-regular-24 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-regular-18 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-regular-16 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-regular-14 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0;
+}
+
+%photon-core-branded-text-regular-12 {
+  font-family: "Signify Relative", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0;
+}
+
+%photon-semantic-headings-heading-1 {
+  @extend %photon-core-h-1;
+}
+
+%photon-semantic-headings-heading-2 {
+  @extend %photon-core-h-2;
+}
+
+%photon-semantic-headings-heading-3 {
+  @extend %photon-core-h-3;
+}
+
+%photon-semantic-headings-heading-4 {
+  @extend %photon-core-h-4;
+}
+
+%photon-semantic-headings-heading-5 {
+  @extend %photon-core-h-5;
+}
+
+%photon-semantic-page-title-large {
+  @extend %photon-core-plain-text-bold-24;
+}
+
+%photon-semantic-page-title-small {
+  @extend %photon-core-plain-text-bold-18;
+}
+
+%photon-semantic-dialog-title {
+  @extend %photon-core-plain-text-bold-18;
+}
+
+%photon-components-buttons-main-action-touch-text {
+  @extend %photon-core-plain-text-bold-16;
+}
+
+%photon-semantic-card-title-large {
+  @extend %photon-core-plain-text-bold-16;
+}
+
+%photon-semantic-section-title-large {
+  @extend %photon-core-plain-text-bold-16;
+}
+
+%photon-semantic-cell-header-large {
+  @extend %photon-core-plain-text-bold-16;
+}
+
+%photon-components-buttons-main-action-pointer-text {
+  @extend %photon-core-plain-text-bold-14;
+}
+
+%photon-semantic-section-title-small {
+  @extend %photon-core-plain-text-bold-14;
+}
+
+%photon-semantic-cell-header-small {
+  @extend %photon-core-plain-text-bold-14;
+}
+
+%photon-semantic-cell-sublabel-small {
+  @extend %photon-core-plain-text-bold-14;
+}
+
+%photon-semantic-body-text-small-bold {
+  @extend %photon-core-plain-text-bold-14;
+}
+
+%photon-semantic-labels {
+  @extend %photon-core-plain-text-bold-12;
+}
+
+%photon-components-cells-table-header {
+  @extend %photon-core-plain-text-regular-24;
+}
+
+%photon-semantic-body-text-large {
+  @extend %photon-core-plain-text-regular-16;
+}
+
+%photon-semantic-body-text-small {
+  @extend %photon-core-plain-text-regular-14;
+}
+
+%photon-semantic-card-title-small {
+  @extend %photon-core-plain-text-regular-14;
+}
+
+%photon-semantic-caption {
+  @extend %photon-core-plain-text-regular-12;
+}
+
+%photon-semantic-footnotes {
+  @extend %photon-core-plain-text-regular-12;
+}
+
+%photon-semantic-branded-actionable-large {
+  @extend %photon-core-branded-text-regular-16;
+}
+
+%photon-semantic-branded-actionable-small {
+  @extend %photon-core-branded-text-regular-14;
+}
+
+%photon-components-cells-cell-header {
+  @extend %photon-semantic-cell-header-small;
+}
+
+%photon-components-date-picker-text-today {
+  @extend %photon-semantic-body-text-small-bold;
+}
+
+%photon-components-input-touch-label {
+  @extend %photon-semantic-labels;
+}
+
+%photon-components-input-pointer-label {
+  @extend %photon-semantic-labels;
+}
+
+%photon-components-controls-label-touch {
+  @extend %photon-semantic-labels;
+}
+
+%photon-components-controls-label-pointer {
+  @extend %photon-semantic-labels;
+}
+
+%photon-components-list-items-touch-section-header {
+  @extend %photon-semantic-labels;
+}
+
+%photon-components-list-items-pointer-section-header {
+  @extend %photon-semantic-labels;
+}
+
+%photon-components-tooltip-title {
+  @extend %photon-semantic-labels;
+}
+
+%photon-components-input-touch-text {
+  @extend %photon-semantic-body-text-large;
+}
+
+%photon-components-list-items-touch-label {
+  @extend %photon-semantic-body-text-large;
+}
+
+%photon-components-cells-label {
+  @extend %photon-semantic-body-text-large;
+}
+
+%photon-components-cells-plain-text {
+  @extend %photon-semantic-body-text-large;
+}
+
+%photon-components-tabs-touch-text {
+  @extend %photon-semantic-body-text-large;
+}
+
+%photon-components-input-pointer-text {
+  @extend %photon-semantic-body-text-small;
+}
+
+%photon-components-list-items-pointer-label {
+  @extend %photon-semantic-body-text-small;
+}
+
+%photon-components-date-picker-text {
+  @extend %photon-semantic-body-text-small;
+}
+
+%photon-components-tags-text {
+  @extend %photon-semantic-body-text-small;
+}
+
+%photon-components-tabs-pointer-text {
+  @extend %photon-semantic-body-text-small;
+}
+
+%photon-components-progress-tracker-step-name {
+  @extend %photon-semantic-body-text-small;
+}
+
+%photon-components-input-touch-helper {
+  @extend %photon-semantic-caption;
+}
+
+%photon-components-input-pointer-helper {
+  @extend %photon-semantic-caption;
+}
+
+%photon-components-tooltip-description {
+  @extend %photon-semantic-caption;
+}
+
+%photon-components-tooltip-link {
+  @extend %photon-semantic-caption;
+}
+
+%photon-semantic-disclaimer {
+  @extend %photon-semantic-caption;
+}
+
+%photon-components-cells-sublabel {
+  @extend %photon-semantic-caption;
+}
+
+%photon-components-progress-tracker-step-number {
+  @extend %photon-semantic-caption;
+}
+
+%photon-components-list-items-pointer-sublabel {
+  @extend %photon-semantic-caption;
+}
+
+%photon-components-list-items-touch-sublabel {
+  @extend %photon-semantic-caption;
+}
+
+%photon-components-buttons-action-touch-text {
+  @extend %photon-semantic-branded-actionable-large;
+}
+
+%photon-components-buttons-neutral-touch-text {
+  @extend %photon-semantic-branded-actionable-large;
+}
+
+%photon-components-buttons-quiet-touch-text {
+  @extend %photon-semantic-branded-actionable-large;
+}
+
+%photon-components-buttons-action-pointer-text {
+  @extend %photon-semantic-branded-actionable-small;
+}
+
+%photon-components-buttons-neutral-pointer-text {
+  @extend %photon-semantic-branded-actionable-small;
+}
+
+%photon-components-buttons-quiet-pointer-text {
+  @extend %photon-semantic-branded-actionable-small;
+}

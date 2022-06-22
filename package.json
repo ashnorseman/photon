@@ -1,0 +1,29 @@
+{
+  "name": "photon",
+  "version": "1.0.0",
+  "description": "Generate css variables and mixins from Signify design configuration",
+  "main": "scripts/main.ts",
+  "scripts": {
+    "dev": "nodemon scripts/main.ts",
+    "start": "ts-node scripts/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashnorseman/photon.git"
+  },
+  "keywords": [
+    "photon"
+  ],
+  "author": "Ash Zhang <ash.zhang@signify.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ashnorseman/photon/issues"
+  },
+  "homepage": "https://github.com/ashnorseman/photon#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}
